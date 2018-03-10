@@ -3,11 +3,10 @@ package com.cidm4385.wt.computerbuildchecklistfinal;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class CheckListActivity extends AppCompatActivity {
+public class CheckListActivity extends SingleFragmentActivity{
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_fragment);
+    protected Fragment createFragment() {
+        return new CheckListFragment();
     }
 }

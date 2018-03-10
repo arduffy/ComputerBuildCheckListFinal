@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:\CheckList1\ComputerBuildCheckListFinal1\ComputerBuildCheckListFinal.iml" filepath="C:\CheckList1\ComputerBuildCheckListFinal1\ComputerBuildCheckListFinal.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ComputerBuildCheckListFinal1.iml" filepath="$PROJECT_DIR$/ComputerBuildCheckListFinal1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComputerBuildCheckListFinal.iml" filepath="$PROJECT_DIR$/ComputerBuildCheckListFinal.iml" />
+      <module fileurl="file://C:\Users\Amanda\Documents\CIDM-4385\ComputerBuildCheckListFinal\ComputerBuildCheckListFinal.iml" filepath="C:\Users\Amanda\Documents\CIDM-4385\ComputerBuildCheckListFinal\ComputerBuildCheckListFinal.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\CheckList1\ComputerBuildCheckListFinal1\app\app.iml" filepath="C:\CheckList1\ComputerBuildCheckListFinal1\app\app.iml" />
+      <module fileurl="file://C:\Users\Amanda\Documents\CIDM-4385\ComputerBuildCheckListFinal\app\app.iml" filepath="C:\Users\Amanda\Documents\CIDM-4385\ComputerBuildCheckListFinal\app\app.iml" />
     </modules>
   </component>
 </project>
